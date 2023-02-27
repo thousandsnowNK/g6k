@@ -1,0 +1,14 @@
+ INFO:        root:2023/02/21 19:39:15 CST: Did not find 'svpchallenge/svpchallenge-dim-100-seed-00.txt', downloading ...
+DEBUG:urllib3.connectionpool:2023/02/21 19:39:15 CST: Starting new HTTPS connection (1): www.latticechallenge.org:443
+DEBUG:urllib3.connectionpool:2023/02/21 19:39:17 CST: https://www.latticechallenge.org:443 "POST /svp-challenge/generator.php HTTP/1.1" 200 None
+ INFO:        root:2023/02/21 19:39:18 CST: 200 OK
+ INFO:        asvp:2023/02/21 19:40:25 CST: sol 100, (-89, -114, -97, 48, 140, 333, 155, 105, -326, -113, 424, 337, 217, -700, 9, 122, -276, -229, -186, 48, -61, 61, -173, -695, -402, 0, -126, -591, -258, -243, 132, -139, -554, -245, -31, -125, -501, 155, -437, 62, -61, -2, -58, -369, 27, -42, -12, -161, 42, 160, 11, 458, 196, -374, 173, 19, -80, 53, -6, 262, -172, 216, 16, 42, 43, -480, -34, -316, -372, -122, 55, 168, 436, -259, 424, -50, -49, 176, 125, -726, -388, -321, 84, -112, 386, -357, 162, 69, 70, -337, -62, 203, -246, -129, -352, -207, -150, 493, 161, 104)
+ INFO:        asvp:2023/02/21 19:40:25 CST: norm 2643.6 ,hf 1.04097
+DEBUG:        root:2023/02/21 19:40:25 CST: {"('svp-challenge', 100)": {"cputime":  215.570,  "walltime":   62.204,  "r_0":   2^22.7,  "r_0/gh": 1.083618,  "rhf": 1.009571,  "/": -0.05544,  "hv/hv": 2.007071,  "r": '...',  "flast":       24}}
+ INFO:        root:2023/02/21 19:40:25 CST: 'threads': 4,                                      :: n: 100, cputime 215.5698s, walltime: 62.2039s, flast: 24.00, |db|: 2^17.24
+DEBUG:  matplotlib:2023/02/21 19:40:27 CST: matplotlib data path: /mnt/d/Desktop/g6k/g6k-env/lib/python3.10/site-packages/matplotlib/mpl-data
+DEBUG:  matplotlib:2023/02/21 19:40:27 CST: CONFIGDIR=/home/qian/.config/matplotlib
+DEBUG:  matplotlib:2023/02/21 19:40:27 CST: interactive is False
+DEBUG:  matplotlib:2023/02/21 19:40:27 CST: platform is linux
+DEBUG:  matplotlib:2023/02/21 19:40:27 CST: CACHEDIR=/home/qian/.cache/matplotlib
+DEBUG:matplotlib.font_manager:2023/02/21 19:40:27 CST: Using fontManager instance from /home/qian/.cache/matplotlib/fontlist-v330.json

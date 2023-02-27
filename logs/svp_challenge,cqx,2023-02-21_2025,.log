@@ -1,0 +1,10 @@
+ INFO:        asvp:2023/02/21 20:27:12 CST: sol 100, (-132, 157, 266, -590, 353, 204, -56, 99, 332, -41, 158, -439, 462, -72, 98, -298, -302, -132, 236, -57, -447, -399, -171, 440, 126, 298, -306, -326, -56, -94, 224, -42, 154, -314, -68, 160, -72, 516, 205, -549, 54, -159, -95, 71, 54, 72, -92, 244, 181, 62, -301, 53, -238, -357, 10, 85, -319, 437, -9, 248, 104, -42, -261, 241, 258, 506, 184, -253, -153, 365, 210, 83, -267, 229, -64, 119, 200, -569, -26, -177, 55, -158, -153, -106, -717, 197, -24, 29, 406, 301, -357, 19, -244, 448, -473, 149, 222, -51, -133, 140)
+ INFO:        asvp:2023/02/21 20:27:12 CST: norm 2620.4 ,hf 1.03183
+DEBUG:        root:2023/02/21 20:27:12 CST: {"('svp-challenge', 100)": {"cputime":  372.317,  "walltime":  102.409,  "r_0":   2^22.7,  "r_0/gh": 1.064679,  "rhf": 1.009482,  "/": -0.05448,  "hv/hv": 1.993139,  "r": '...',  "flast":       21}}
+ INFO:        root:2023/02/21 20:27:12 CST: 'threads': 4,                                      :: n: 100, cputime 372.3170s, walltime: 102.4087s, flast: 21.00, |db|: 2^17.66
+DEBUG:  matplotlib:2023/02/21 20:27:13 CST: matplotlib data path: /mnt/d/Desktop/g6k/g6k-env/lib/python3.10/site-packages/matplotlib/mpl-data
+DEBUG:  matplotlib:2023/02/21 20:27:13 CST: CONFIGDIR=/home/qian/.config/matplotlib
+DEBUG:  matplotlib:2023/02/21 20:27:13 CST: interactive is False
+DEBUG:  matplotlib:2023/02/21 20:27:13 CST: platform is linux
+DEBUG:  matplotlib:2023/02/21 20:27:13 CST: CACHEDIR=/home/qian/.cache/matplotlib
+DEBUG:matplotlib.font_manager:2023/02/21 20:27:13 CST: Using fontManager instance from /home/qian/.cache/matplotlib/fontlist-v330.json
